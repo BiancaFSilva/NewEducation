@@ -1,5 +1,5 @@
 # Site sobre a Gripe Espanhola
-#### Inspirado no filme francês "Danton - O Processo da Revolução" de 1893
+#### Inspirado no filme/livro ...
 Você pode acessar o site [aqui]()
 
 ## Integrantes do grupo:
