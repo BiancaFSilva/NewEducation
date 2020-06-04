@@ -3,6 +3,7 @@
 Você pode acessar o site [aqui]()
 
 ## Integrantes do grupo:
+  - Árion Vidal
   - Bianca Letícia
   - Emanuela de Almeida
   - Isabelle Damacena
