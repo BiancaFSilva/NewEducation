@@ -7,3 +7,5 @@ Integrantes do grupo:
 	- Isabelle Damacena
 
 Tema: Bactérias
+
+Objetivo: 
