@@ -1,4 +1,4 @@
-# Site sobre a bactéria da Peste Bubônica
+# Site sobre a Gripe Espanhola
 #### Inspirado no filme francês "Danton - O Processo da Revolução" de 1893
 Você pode acessar o site [aqui]()
 
@@ -7,7 +7,7 @@ Você pode acessar o site [aqui]()
   - Emanuela de Almeida
   - Isabelle Damacena
 
-### Tema: Bactérias
+### Tema: Vírus
 
 ### Objetivo 
 
