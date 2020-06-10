@@ -1,5 +1,5 @@
 # Site sobre a Gripe Espanhola
-#### Inspirado no filme/livro ...
+#### Inspirado no longa metragem de ficção científica, suspense e drama "Contágio" de 2011 | Dirigido por Steven Soderbergh
 Você pode acessar o site [aqui](https://biancafsilva.github.io/Site-de-Biologia/)
 
 ## Integrantes do grupo:
@@ -13,3 +13,4 @@ Você pode acessar o site [aqui](https://biancafsilva.github.io/Site-de-Biologia
 ### Objetivo 
 
 ### Contato 
+  - gripeespanhola.virus@gmail.com
