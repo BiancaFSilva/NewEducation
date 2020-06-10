@@ -8,9 +8,15 @@ Você pode acessar o site [aqui](https://biancafsilva.github.io/Site-de-Biologia
   - Emanuela de Almeida
   - Isabelle Damacena
 
-### Tema: Vírus
+#### Tema: Gripe Espanhola | Vírus Influenza
+Assuntos abordados:
+  - A origem evolutiva e principais características; 
+  - Surtos ao longo da história;
+  - Sintomas, controle e tratamentos;
+  - Conteúdo Cultural. 
 
 ### Objetivo 
+Site desenvolvido para fins educacionais
 
 ### Contato 
   - gripeespanhola.virus@gmail.com
