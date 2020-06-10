@@ -1,11 +1,43 @@
+header {
+    /*background-image: url('../img/'); */
+    background: linear-gradient(#55E4C4, #ffffff);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #2e1241;
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    position: relative;
+    height: 50vh;
+}
+  
 .navbar {
-    background-color: rgb(185, 228, 196); /* pfvr mudar essa cor  */
+    background-color: rgb(85, 228, 196); /* pfvr mudar essa cor  */
 }
 
 .container {
     padding: 1%;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 45px;
+    line-height: 1.5em;
+    padding: 0 15px;
+}
+
+ul {
+    text-indent: 100px;
+}
+
 footer {
-    background-color: rgb(185, 228, 196);
+    background-color: rgb(85, 228, 196);
 }
