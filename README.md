@@ -1,6 +1,6 @@
 # Site Interdisciplinar 
 
-Você pode acessar o site [aqui](https://biancafsilva.github.io/GripeEspanhola/)
+Você pode acessar o site [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
 
 ## Integrantes do grupo:
   - Árion Vidal
