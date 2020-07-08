@@ -1,4 +1,4 @@
-# Site Interdisciplinar 
+# New Education
 
 Você pode acessar o site [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
 
