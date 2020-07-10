@@ -801,10 +801,12 @@ section {
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #eef0ef;
+  border-radius: 5%;
 }
 
 .trainers .member img {
   margin: -1px -1px 30px -1px;
+  border-radius: 5%;
 }
 
 .trainers .member .member-content {
