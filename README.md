@@ -1,6 +1,6 @@
 # New Education
 
-![image](https://user-images.githubusercontent.com/68437993/87811575-41253200-c835-11ea-8d7c-986d2d566fdb.png)
+![image](https://user-images.githubusercontent.com/68437993/87812645-e55ba880-c836-11ea-936e-3f2dc45d0c7f.png)
 
 <h5 align="center">
 <a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a>
