@@ -1,21 +1,18 @@
 # New Education
 
-![image](https://user-images.githubusercontent.com/68437993/87812645-e55ba880-c836-11ea-936e-3f2dc45d0c7f.png)
-
-<h5 align="center">
-<a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a>
-</h5>
+![image](https://user-images.githubusercontent.com/68437993/87812645-e55ba880-c836-11ea-936e-3f2dc45d0c7f.png) 
+<h5 align="center"><a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a> </h5>
 
 Você pode acessar a visualização do site pelos arquivos do repositório (GitHub Pages) [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
 
-## Integrantes do grupo:
+## :busts_in_silhouette: Integrantes do grupo:
   - [Árion Vidal](https://github.com/focarion)
   - [Bianca Letícia](https://github.com/BiancaFSilva)
   - [Emanuela de Almeida](https://github.com/Manu0121)
   - [Isabelle Damacena](https://github.com/IsabelleDamacena)
 
 ## Temas: 
-### Gripe Espanhola | Vírus Influenza
+### :microscope: Gripe Espanhola | Vírus Influenza
 Assuntos abordados:
   - A origem evolutiva e principais características; 
   - Surtos ao longo da história;
@@ -23,7 +20,7 @@ Assuntos abordados:
   - Conteúdo Cultural. 
     - Inspirado no longa metragem de ficção científica, suspense e drama "Contágio" de 2011 | Dirigido por Steven Soderbergh
 
-### Distúrbios alimentares e psicológicos
+### :stethoscope: Distúrbios alimentares e psicológicos
 Assuntos abordados:
   - O que são;
   - Sintomas;
@@ -39,7 +36,7 @@ Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ <
 Author: BootstrapMade.com <br>
 License: https://bootstrapmade.com/license/ <br>
 
-## Paleta de cores
+## :art: Paleta de cores :art:
 ![#A4D4AE](https://placehold.it/15/A4D4AE/000000?text=+) `#A4D4AE`
 ![#E7F0C3](https://placehold.it/15/E7F0C3/000000?text=+) `#E7F0C3`
 ![#F7E561](https://placehold.it/15/F7E561/000000?text=+) `#F7E561`
