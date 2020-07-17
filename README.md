@@ -1,12 +1,18 @@
 # New Education
 
-Você pode acessar o site [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
+![image](https://user-images.githubusercontent.com/68437993/87811575-41253200-c835-11ea-8d7c-986d2d566fdb.png)
+
+<h5 align="center">
+<a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a>
+</h5>
+
+Você pode acessar a visualização do site pelos arquivos do repositório (GitHub Pages) [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
 
 ## Integrantes do grupo:
-  - Árion Vidal
-  - Bianca Letícia
-  - Emanuela de Almeida
-  - Isabelle Damacena
+  - [Árion Vidal](https://github.com/focarion)
+  - [Bianca Letícia](https://github.com/BiancaFSilva)
+  - [Emanuela de Almeida](https://github.com/Manu0121)
+  - [Isabelle Damacena](https://github.com/IsabelleDamacena)
 
 ## Temas: 
 ### Gripe Espanhola | Vírus Influenza
