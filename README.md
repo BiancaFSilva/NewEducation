@@ -17,8 +17,8 @@ Assuntos abordados:
   - A origem evolutiva e principais características; 
   - Surtos ao longo da história;
   - Sintomas, controle e tratamentos;
-  - Conteúdo Cultural. 
-    - Inspirado no longa metragem de ficção científica, suspense e drama "Contágio" de 2011 | Dirigido por Steven Soderbergh
+  - Conteúdo Cultural.       
+        🎬 Inspirado no longa metragem de ficção científica, suspense e drama "Contágio" de 2011 | Dirigido por Steven Soderbergh
 
 ### :stethoscope: Distúrbios alimentares e psicológicos
 Assuntos abordados:
