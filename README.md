@@ -3,10 +3,10 @@
 Você pode acessar o site [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
 
 ## Integrantes do grupo:
-  - Árion Vidal
-  - Bianca Letícia
-  - Emanuela de Almeida
-  - Isabelle Damacena
+  - [Árion Vidal](https://github.com/focarion)
+  - [Bianca Letícia](https://github.com/BiancaFSilva)
+  - [Emanuela de Almeida](https://github.com/Manu0121)
+  - [Isabelle Damacena](https://github.com/IsabelleDamacena)
 
 ## Temas: 
 ### Gripe Espanhola | Vírus Influenza
