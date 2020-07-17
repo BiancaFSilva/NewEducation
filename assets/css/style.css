@@ -321,7 +321,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: #dbf7f3;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -338,9 +338,9 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #37423b;
+  color: rgb(7, 8, 7);
   padding: 10px 20px;
-  font-weight: 500;
+  font-weight: 600;
   outline: none;
 }
 
@@ -672,13 +672,13 @@ section {
   border-radius: 5%;
 }
 
-.why-us .icon-boxes .icon-box i {
+.why-us .icon-boxes .icon-box img {
   font-size: 32px;
-  padding: 18px;
+  padding: 5px;
   color: #32AFA9;
   margin-bottom: 30px;
   background: #dbf7f3;
-  border-radius: 50px;
+  border-radius: 5%;
 }
 
 .why-us .icon-boxes .icon-box h4 {
