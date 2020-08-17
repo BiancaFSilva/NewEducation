@@ -823,7 +823,7 @@ section {
 
 .trainers .member img {
   margin: -1px -1px 30px -1px;
-  border-radius: 5%;
+  border-radius: 5%;  
 }
 
 .trainers .member .member-content {
@@ -1260,6 +1260,21 @@ section {
   color: #fff;
 }
 
+.modal-header, .modal-footer {
+  background: #dbf7f3;
+  border-color: #dbf7f3;
+}
+
+.modal-footer button {
+  color: #fff;
+  background-color: #32AFA9;
+  border-color: #32AFA9;
+}
+.modal-footer button:hover {
+  color: #fff;
+  background-color: #2ccac2;
+  border-color: #42bdb7;
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
