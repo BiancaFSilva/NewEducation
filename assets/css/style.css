@@ -671,7 +671,7 @@ section {
   background: #fff;
 }
 
-.why-us .icon-boxes .icon-box {
+.why-us  {
   text-align: center;
   background: #fff;
   padding: 40px 30px;
@@ -698,6 +698,12 @@ section {
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
   color: #848484;
+}
+
+@media (max-width: 767px) {
+  .why-us .icon-boxes .icon-box img {
+    width: 60%;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -865,6 +871,18 @@ section {
 .trainers .member .social i {
   font-size: 18px;
   margin: 0 2px;
+}
+
+@media (max-width: 767px) {
+  .trainers {
+    align-items: center;
+    justify-content: center;
+  }
+  .trainers .grupo {
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+  }
 }
 
 /*--------------------------------------------------------------

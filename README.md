@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/68437993/87812645-e55ba880-c836-11ea-936e-3f2dc45d0c7f.png) 
 <h5 align="center"><a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a> </h5>
 
-Você pode acessar a visualização do site pelos arquivos do repositório (GitHub Pages) [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/)
+Você pode acessar a visualização do site pelos arquivos do repositório (GitHub Pages) [aqui](https://biancafsilva.github.io/SiteInterdisciplinar/) ou por <p align="center"> <img height="50%" src="./assets/img/QR Code.png"></img> </p>
 
 ## :busts_in_silhouette: Integrantes do grupo:
   - [Árion Vidal](https://github.com/focarion)
