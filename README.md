@@ -11,7 +11,12 @@
 ---
 
 ![image](https://user-images.githubusercontent.com/68437993/87812645-e55ba880-c836-11ea-936e-3f2dc45d0c7f.png) 
-<h5 align="center"><a href="https://new-education.000webhostapp.com/index.html">Página Inicial</a> - <a href="https://new-education.000webhostapp.com/gripeEspanhola.html">Gripe Espanhola</a> - <a href="https://new-education.000webhostapp.com/disturbios.html">Distúrbios</a> - <a href="https://new-education.000webhostapp.com/contact.html">Contato</a> </h5>
+<h5 align="center">
+    <a href="https://biancafsilva.github.io/SiteInterdisciplinar">Página Inicial</a> - 
+    <a href="https://biancafsilva.github.io/SiteInterdisciplinar/gripeEspanhola.html">Gripe Espanhola</a> - 
+    <a href="https://biancafsilva.github.io/SiteInterdisciplinar/disturbios.html">Distúrbios</a> - 
+    <a href="https://biancafsilva.github.io/SiteInterdisciplinar/contact.html">Contato</a> 
+</h5>
 
 <br>
 <p align="center"> <img height="20%" width="20%" src="./assets/img/QR Code.png"></img> </p>
